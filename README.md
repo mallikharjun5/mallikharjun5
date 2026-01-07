@@ -11,5 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Email-mallikharjunandey5@gmail.com-red?logo=gmail&style=flat)](mailto:mallikharjunandey5@gmail.com)
 
 ---
-DevOps / SRE Engineer with 4+ years of hands-on experience in AWS, CI/CD, Terraform, Docker, Kubernetes, Ansible, and monitoring tools, focused on delivering scalable, secure, and reliable cloud infrastructure through automation and best practices. 🚀
+
+Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastructure, automation, and reliability engineering. Strong background in AWS, Kubernetes, Terraform, CI/CD pipelines, configuration management, and monitoring, aiming to contribute to high-performance systems by improving availability, scalability, and deployment reliability
+
 ---
