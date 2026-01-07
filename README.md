@@ -45,7 +45,7 @@ Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastruct
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution
 
 <div align="center">
   <img src="github-contribution-grid-snake.svg" alt="snake animation" />
