@@ -47,9 +47,7 @@ Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastruct
 
 ## 🐍 GitHub Contribution
 
-<div align="center">
-  <img src="github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+![snake gif](https://github.com/mallikharjun5/mallikharjun5/blob/output/github-snake-dark.svg)
 
 ---
 
