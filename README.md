@@ -37,6 +37,8 @@ Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastruct
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mallikharjun5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mallikharjun5&theme=dark&hide_border=false" />
