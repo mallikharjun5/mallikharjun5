@@ -21,5 +21,6 @@ Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastruct
 - **Cloud**: AWS
 - **OS**: Linux
 - **Scripting**: Shell
+- **SCM**: Git, GitHub
 
 ---
