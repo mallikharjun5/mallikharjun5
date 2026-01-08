@@ -12,7 +12,7 @@
 
 ---
 
-Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastructure, automation, and reliability engineering. Strong background in AWS, Kubernetes, Terraform, CI/CD pipelines, configuration management, and monitoring, aiming to contribute to high-performance systems by improving availability, scalability, and deployment reliability
+DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, automation, and system reliability. Proficient in AWS, Kubernetes, Terraform, CI/CD, configuration management, and monitoring, with a strong focus on enhancing availability, scalability, and deployment reliability to support mission-critical systems
 
 ---
 
