@@ -27,7 +27,7 @@ Experienced DevOps & SRE Engineer with 4 years of expertise in cloud infrastruct
 
 ## ⚙️ Skills Showcase
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,shell,git,terraform,vscode,ansible,jenkins,docker,kubernetes,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,bash,git,terraform,vscode,ansible,jenkins,docker,kubernetes,)](https://skillicons.dev)
 
 ---
 
