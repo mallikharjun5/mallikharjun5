@@ -31,9 +31,25 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 GitHub Analytics Dashboard
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mallikharjun5)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mallikharjun5&show_icons=true&theme=radical&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=mallikharjun5&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikharjun5&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mallikharjun5&theme=react-dark"/>
+</p>
 
 ---
 
