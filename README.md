@@ -30,7 +30,7 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,bash,git,terraform,vscode,ansible,jenkins,docker,kubernetes,)](https://skillicons.dev)
 
 ---
-
+<!-->
 
 ## 🚀 GitHub Stats
 
