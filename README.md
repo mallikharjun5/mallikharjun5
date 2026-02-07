@@ -40,7 +40,6 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 </div>
 ---
 
-
 <!-- ## 🐍 GitHub Contribution -->
 
 <!-- ![snake gif](https://github.com/mallikharjun5/mallikharjun5/blob/output/github-snake-dark.svg) -->
