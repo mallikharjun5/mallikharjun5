@@ -31,7 +31,7 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,bash,git,terraform,vscode,ansible,jenkins,docker,kubernetes,)](https://skillicons.dev)
 
 ---
-<!--
+
 
 ## 🚀 GitHub Stats
 
@@ -39,7 +39,7 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
   <img src="https://streak-stats.demolab.com?user=mallikharjun5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
--->
+
 ---
 
 <!-- ## 🐍 GitHub Contribution -->
