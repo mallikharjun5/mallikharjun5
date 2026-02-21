@@ -24,7 +24,6 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 - **SCM**: Git, GitHub
 - **Configuration Management**: Ansible
 - **Infrastructure as a code**: Terraform
-
 ---
 
 ## ⚙️ Skills Showcase
