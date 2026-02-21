@@ -23,6 +23,7 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 - **Scripting**: Shell
 - **SCM**: Git, GitHub
 - **Configuration Management**: Ansible
+- **Infrastructure as a code**: Terraform
 
 ---
 
