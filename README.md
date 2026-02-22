@@ -30,8 +30,9 @@ DevOps & Site Reliability Engineer specializing in cloud-native infrastructure, 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,bash,git,terraform,vscode,ansible,jenkins,docker,kubernetes,)](https://skillicons.dev)
 
+
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mallikharjun5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
